@@ -1,4 +1,6 @@
 body {
-    background: no-repeat cover url(imgs/bg-main-desktop.png);
+    background: no-repeat center url(imgs/bg-main-desktop.png);
     font-family: "IBM plex sans", sans-serif;
+    margin: 0 auto;
+    padding: 0 auto;
 }
